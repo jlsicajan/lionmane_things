@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/linkedtolocal/":{"guestpath":"/var/www/linkedtolocal","hostpath":"/Users/lionmane/Work/clients/LineHop-CMS","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/lionmane/sicajan/vagrants","disabled":false,"__vagrantfile":true}}}
